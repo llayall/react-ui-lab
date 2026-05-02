@@ -1,0 +1,36 @@
+// ===================================
+// Design Tokens (SCSS版)
+// ===================================
+// ※ tokens.css と同じ値を保つこと
+
+// Colors - Primary
+$color-primary-50: #eff6ff;
+$color-primary-500: #2196f3;
+$color-primary-700: #1565c0;
+
+// Colors - Neutral
+$color-neutral-50: #fafafa;
+$color-neutral-200: #e5e5e5;
+$color-neutral-500: #737373;
+$color-neutral-900: #171717;
+
+// Spacing (8pt grid)
+$space-1: 0.25rem;  // 4px
+$space-2: 0.5rem;   // 8px
+$space-3: 0.75rem;  // 12px
+$space-4: 1rem;     // 16px
+$space-6: 1.5rem;   // 24px
+$space-8: 2rem;     // 32px
+
+// Border Radius
+$radius-sm: 0.25rem;
+$radius-md: 0.5rem;
+$radius-lg: 0.75rem;
+
+// Typography
+$font-size-sm: 0.875rem;
+$font-size-base: 1rem;
+$font-size-lg: 1.125rem;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
