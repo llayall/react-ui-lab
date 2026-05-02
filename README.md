@@ -26,8 +26,8 @@ npm run storybook    # Start Storybook (http://localhost:6006)
 
 ## 📖 Documentation
 
-- [Live Storybook](https://<your-github-username>.github.io/react-ui-lab/)
-- [Design Document](./design.md)
+- [Live Storybook](https://llayall.github.io/react-ui-lab/)
+- [Design Document](./docs/design.md)
 
 ## 📂 Project Structure
 
